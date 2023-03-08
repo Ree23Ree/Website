@@ -4,6 +4,7 @@ body{
     background-image:url(waterfall2.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-size:cover;
 }
 
 
@@ -63,42 +64,53 @@ text-align: center;
 }
 
 
+.images {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding-left:10%;
+    flex-wrap:wrap;
+    max-width:80%;
+}
+
 .room{
-    width:80%;
+max-width:80%;
 }
 
 .face{
-    width: 50%;
+    max-width:80%;
 }
 
-.socials{
 
+.socials{
+    max-width:80%;
 }
 
 .body1{
-    width: 50%
+    max-width:80%;
 }
 
 .bluel{
-    width:80%;
+    max-width:80%;
 }
 
 .water{
-    width:100%;
+    max-width:80%;
 }
 
 .needle{
-    width:80%
+    max-width:80%;
 }
 
 .floweroil{
-    width:80%;
+    max-width:80%;
 }
 
 .feet{
-    width:80%;
+    max-width:80%;
 }
 
 .chart{
-    width:80%;
+    max-width:80%;
 }
