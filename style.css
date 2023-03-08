@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Nanum+Brush+Script&display=swap');
+
+body{
+    background-image:url(waterfall2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+
+h1 {
+    color:hsl(316, 100%, 50%);
+    font-size: 50px;
+    background-color:rgba(255, 255, 255, 0.639);
+    text-shadow:black 1px 3px;
+}
+
+h2, h3  {
+    background-color:rgba(255, 255, 255, 0.463);
+}
+
+
+h2{
+    color:lightslategray;
+    font-size: 30px;
+    text-shadow:black 1px 3px;
+}
+/* this is how you style all h1 tags */
+
+/* .contact{
+    background-image:url(waterfall.jpg) */
+
+#navbar{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-between;
+    
+}
+
+#navbar a{
+    text-decoration: none;
+    font-family: cursive;
+}
+
+#navbar a:hover{
+    color: paleturquoise;
+}
+
+/* *{
+    box-sizing: border-box;
+    margin:50px 10px 50px 10px;
+} */
+
+
+/* 
+.parent{
+    background-image:url(waterfall2.jpg);
+} */
+
+body{
+    font-family: 'Climate Crisis', cursive;
+font-family: 'Nanum Brush Script', cursive;
+text-align: center;
+}
+
+
+.room{
+    width:80%;
+}
+
+.face{
+    width: 50%;
+}
+
+.socials{
+
+}
+
+.body1{
+    width: 50%
+}
+
+.bluel{
+    width:80%;
+}
+
+.water{
+    width:100%;
+}
+
+.needle{
+    width:80%
+}
+
+.floweroil{
+    width:80%;
+}
+
+.feet{
+    width:80%;
+}
+
+.chart{
+    width:80%;
+}
